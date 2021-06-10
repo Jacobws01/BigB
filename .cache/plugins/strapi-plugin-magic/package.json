@@ -1,0 +1,27 @@
+{
+  "name": "strapi-plugin-magic",
+  "version": "0.3.2",
+  "description": "One Line Magic.Link Integration with Strapi, also store your PK in Admin",
+  "strapi": {
+    "name": "magic",
+    "icon": "magic",
+    "description": "One Line Magic.Link Integration with Strapi, also store your PK in Admin"
+  },
+  "homepage": "https://github.com/GalloDaSballo/strapi-magic-template",
+  "dependencies": {
+    "@buffetjs/core": "^3.3.1",
+    "@magic-sdk/admin": "^1.2.2",
+    "styled-components": "^5.2.0"
+  },
+  "author": {
+    "name": "Alex The Entreprenerd",
+    "email": "alex@entreprenerd.xyz",
+    "url": "entreprenerd.xyz"
+  },
+  "maintainers": [],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
